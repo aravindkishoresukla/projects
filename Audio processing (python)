@@ -1,0 +1,11 @@
+pip install numpy scipy librosa
+
+numpy: For numerical operations on arrays.
+scipy: For signal processing functions.
+librosa: For audio processing.
+
+
+The librosa library doesn't have a direct output attribute. Instead, you can use the soundfile library for saving audio files. 
+
+
+
